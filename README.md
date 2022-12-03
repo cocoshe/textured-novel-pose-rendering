@@ -7,7 +7,7 @@ Then you can get the `motion_video.mp4`, you are dancing~
 
 <center class = "half">
 	<img src="data/obj1/images/P01125-150055.jpg" alt="drawing" width="300"/>
-    <img src="D:\PycharmProjects\textured-novel-pose-rendering\README.assets\P01125-150146.jpg" alt="drawing" width="300"/>
+    <img src="data/obj1/images\P01125-150146.jpg" alt="drawing" width="300"/>
 </center>
 
 
