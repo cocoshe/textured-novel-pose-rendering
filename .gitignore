@@ -134,7 +134,6 @@ smplify-x
 images
 motion_snapshots
 romp_output
-motion_video.mp4
 tmp_test.py
 models/pose
 models/hand

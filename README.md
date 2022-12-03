@@ -69,3 +69,4 @@ run `ffmpeg`, for example:
 ```bash
 ffmpeg -f image2 -i motion_snapshots/%06d.png motion_video.mp4
 ```
+
