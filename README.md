@@ -5,6 +5,13 @@
 
 Then you can get the `motion_video.mp4`, you are dancing~
 
+<center class = "half">
+	<img src="data/obj1/images/P01125-150055.jpg" alt="drawing" width="300"/>
+    <img src="D:\PycharmProjects\textured-novel-pose-rendering\README.assets\P01125-150146.jpg" alt="drawing" width="300"/>
+</center>
+
+
+
 This project is built on the great and useful projects: [textured_smplx](https://github.com/qzane/textured_smplx), [romp](https://github.com/Arthur151/ROMP), [smplify-x](https://github.com/vchoutas/smplify-x), [humannerf](https://github.com/chungyiweng/humannerf)
 
 > Since the complex dependence, basically you can refer to [textured_smplx](https://github.com/qzane/textured_smplx) and [romp](https://github.com/Arthur151/ROMP)
