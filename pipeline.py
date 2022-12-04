@@ -164,6 +164,7 @@ if __name__ == '__main__':
 
     os.system('cp {} {}/'.format(os.path.join(romp_output, 'video_results.npz'), 'motion_results'))
     texture_extraction(args.data_path, args.front_img, args.back_img, args.model)
+    os.system('cp {} {}/'.format(os.path.join(data_path, 'texture_{}.png'.format(model)), 'models'))
     # novel_pose_rendering(sex=sex, model=model, front_img=front_img_name, image_pad_info=image_pad_info)
     novel_pose_rendering(sex=sex, model=model, front_img=front_img_name, image_pad_info=None)
 
