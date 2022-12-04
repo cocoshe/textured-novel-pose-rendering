@@ -131,7 +131,7 @@ dmypy.json
 smpl
 smplx
 smplify-x
-images
+images/*.png
 motion_snapshots
 romp_output
 tmp_test.py
